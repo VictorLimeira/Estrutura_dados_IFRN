@@ -13,3 +13,4 @@ Descrição:
 obs:
 *    .asm = assembly
 *    .py = python
+*    Stack.pyc = biblioteca de pilha em python
