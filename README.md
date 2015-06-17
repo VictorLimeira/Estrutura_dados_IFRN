@@ -6,9 +6,10 @@ Obrigado.
 
 Descrição:
 
-* assignment_01 = Implementação de pilha
-* assignment_02 = Implementação de fila
-* assignment_03 = Implementação de deque
+* assignment_01 = Implementação de pilha em assembly MIPS
+* assignment_02 = Implementação de fila em assembly MIPS
+* assignment_03 = Implementação de deque em assembly MIPS
+* assignment_04 = Implementação de lista ligada em assembly MIPS
 
 obs:
 *    .asm = assembly
